@@ -41,3 +41,24 @@ CAREERX/
 ├── skill-roadmap.html
 ├── resources.html
 └── README.md
+
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![CAREERX Home](home.png)
+
+### 🔐 Login
+![CAREERX Login](login.png)
+
+### 📝 Registration
+![CAREERX Registration](register.png)
+
+### 📊 Dashboard
+![CAREERX Dashboard](dashboard.png)
+
+### 🎯 Job Match & Skill Gap Analysis
+![CAREERX Job Match](job_match.png)
+
+### 🎤 Mock Interview
+![CAREERX Mock Interview](mock%20interviews.png)
