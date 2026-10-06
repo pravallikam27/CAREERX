@@ -42,7 +42,7 @@ CAREERX/
 ├── resources.html
 └── README.md
 
-
+```
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
@@ -58,7 +58,7 @@ CAREERX/
 ![CAREERX Dashboard](dashboard.png)
 
 ### 🎯 Job Match & Skill Gap Analysis
-![CAREERX Job Match](job_match.png)
+![CAREERX Job Match](job-match.png)
 
 ### 🎤 Mock Interview
 ![CAREERX Mock Interview](mock%20interviews.png)
